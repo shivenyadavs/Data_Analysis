@@ -1,0 +1,49 @@
+,Name,Specs_Score,Price(Rs.),RAM,Processor,display,Main_Camera,Battery
+0,Samsung Galaxy S23 Ultra 5G,0.96,104999,12 GB RAM,Snapdragon 8 Gen 2,6.8,200,5000
+1,Apple iPhone 14 Pro Max,0.94,124900,6 GB RAM,Apple A16 Bionic,6.7,48,4323
+2,vivo X90 Pro,0.94,76499,12 GB RAM,MediaTek Dimensity 9200,6.78,50,4870
+3,Xiaomi 13 Pro,0.95,74998,12 GB RAM,Snapdragon 8 Gen 2,6.73,50,4820
+4,Google Pixel 7 Pro 5G,0.9,58999,12 GB RAM,Google Tensor G2,6.7,50,5000
+5,OPPO Find N2 Flip,0.91,81999,8 GB RAM,MediaTek Dimensity 9000 Plus,6.8,50,4300
+6,Samsung Galaxy S23 Plus 5G,0.95,94999,8 GB RAM,Snapdragon 8 Gen 2,6.6,50,4700
+7,Samsung Galaxy S23 5G,0.95,64999,8 GB RAM,Snapdragon 8 Gen 2,6.1,50,3900
+8,Apple iPhone 13 Pro Max,0.95,129900,6 GB RAM,Apple A15 Bionic,6.7,12,4352
+9,Samsung Galaxy Z Fold 4 5G,0.91,111999,12 GB RAM,Snapdragon 8 Plus Gen 1,7.6,50,4400
+10,Samsung Galaxy S22 Ultra,0.94,82399,12 GB RAM,Snapdragon 8 Gen 1,6.8,108,5000
+11,vivo X80 Pro 5G,0.93,79999,12 GB RAM,Snapdragon 8 Gen 1,6.78,50,4700
+12,OnePlus 11,0.95,56998,8 GB RAM,Snapdragon 8 Gen 2,6.7,50,5000
+13,OnePlus Nord 3 5G,0.89,32846,8 GB RAM,MediaTek Dimensity 9000,6.74,50,5000
+14,OPPO Reno10 Pro+ 5G,0.91,54999,12GB RAM ,Snapdragon 8 Plus Gen 1,6.74,50,4700
+15,realme 11 Pro Plus,0.86,24999,8 GB RAM,MediaTek Dimensity 7050,6.7,200,5000
+16,Apple iPhone 14 Plus,0.95,72999,6 GB RAM,Apple A15 Bionic,6.7,12,4325
+17,Samsung Galaxy Z Flip 4 5G,0.91,62999,8 GB RAM,Snapdragon 8 Plus Gen 1,6.7,12,3700
+18,iQOO 11 5G,0.95,49999,8 GB RAM,Snapdragon 8 Gen 2,6.78,50,5000
+19,OnePlus 11R,0.91,39999,8 GB RAM,Snapdragon 8 Plus Gen 1,6.74,50,5000
+20,Xiaomi 12 Pro 5G,0.91,37999,8 GB RAM,Snapdragon 8 Gen 1,6.73,50,4600
+21,iQOO Neo 7 Pro,0.9,32999,8 GB RAM,Snapdragon 8 Plus Gen 1,6.78,50,5000
+22,OnePlus 10 Pro,0.94,52999,8 GB RAM,Snapdragon 8 Gen 1,6.7,48,5000
+23,Samsung Galaxy S22 Plus,0.91,49999,8 GB RAM,Snapdragon 8 Gen 1,6.6,50,4500
+24,vivo X80 5G,0.9,43999,8 GB RAM,MediaTek Dimensity 9000,6.78,50,4500
+25,Samsung Galaxy Z Fold 3,0.9,148999,12 GB RAM,Snapdragon 888,7.6,12,4400
+26,Samsung Galaxy Z Flip 3,0.9,49999,8 GB RAM,Snapdragon 888,6.7,12,3300
+27,iQOO 9 Pro 5G,0.92,44990,8 GB RAM,Snapdragon 8 Gen 1,6.78,50,4700
+28,vivo X70 Pro Plus,0.92,77990,12 GB RAM,Snapdragon 888 Plus,6.78,50,4500
+29,iQOO 9T 5G,0.9,49499,8 GB RAM,Snapdragon 8 Plus Gen 1,6.78,50,4700
+30,OnePlus 10T,0.9,39999,8 GB RAM,Snapdragon 8 Plus Gen 1,6.7,50,4800
+31,realme GT 2 Pro 5G,0.91,26999,8 GB RAM,Snapdragon 8 Gen 1,6.7,50,5000
+32,Apple iPhone 13,0.94,49999,4 GB RAM,Apple A15 Bionic,6.1,12,3227
+33,realme GT Neo 3 5G 150W,0.88,27040,12 GB RAM,MediaTek Dimensity 8100,6.7,50,4500
+34,OnePlus 10R 5G,0.9,27999,8 GB RAM,MediaTek Dimensity 8100 Max,6.7,50,5000
+35,POCO F4 5G,0.89,27999,6 GB RAM,Snapdragon 870,6.67,64,4500
+36,OPPO Reno8 Pro 5G,0.88,38000,12 GB RAM,MediaTek Dimensity 8100 Max,6.7,50,4500
+37,Asus ROG Phone 5,0.87,55999,8 GB RAM,Snapdragon 888,6.78,64,6000
+38,iQOO 7 Legend,0.88,24990,8 GB RAM,Snapdragon 888,6.62,48,4000
+39,realme GT 5G,0.88,25999,8 GB RAM,Snapdragon 888,6.43,64,4500
+40,realme 9 Pro Plus,0.85,18999,6 GB RAM,MediaTek Dimensity 920,6.4,50,4500
+41,realme GT Neo 2 5G,0.88,31999,8 GB RAM,Snapdragon 870,6.62,64,5000
+42,realme X7 Max,0.86,26999,8 GB RAM,MediaTek Dimensity 1200,6.43,64,4500
+43,OnePlus Nord 2 8GB RAM,0.87,19700,8 GB RAM,MediaTek Dimensity 1200,6.43,50,4500
+44,iQOO Z6 Pro,0.85,23999,6 GB RAM,Snapdragon 778G,6.44,64,4700
+45,Xiaomi Redmi Note 11 Pro Plus 5G,0.82,19990,6 GB RAM,Snapdragon 695,6.67,108,5000
+46,realme 9 5G SE,0.84,19490,6 GB RAM,Snapdragon 778G,6.6,48,5000
+47,Xiaomi Redmi 9 Prime,0.75,10990,4 GB RAM,MediaTek Helio G80,6.53,13,5020
